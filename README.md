@@ -14,16 +14,17 @@ Table of Contents
 3. Installation
 
 4. Cloud Implementation
-    4.1 Using Datasets in Google Colab
+   - 4.1 Using Datasets in Google Colab
 
 5. Usage
-    5.1 Dataset Preparation
-    5.2 Training
-    5.3 Evaluation
+   - 5.1 Dataset Preparation
+   - 5.2 Training
+   - 5.3 Evaluation
 
 6. Results
 
 7. References
+
 
 --------------------------------------------------------------------------------
 1. Overview
