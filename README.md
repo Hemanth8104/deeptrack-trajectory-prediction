@@ -57,7 +57,7 @@ trajectory prediction. This repository provides code for data loading, model def
 --------------------------------------------------------------------------------
 5. Results
 --------------------------------------------------------------------------------
-After training, you can visualize training and test MSE loss values over epochs.
+While training, you can visualize training and test MSE loss values over epochs, output is predicted position after one time frame.
 
 --------------------------------------------------------------------------------
 6. References
