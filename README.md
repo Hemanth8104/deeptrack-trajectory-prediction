@@ -1,4 +1,4 @@
-# deeptrack-trajectory-predictionDeepTrack: Lightweight Deep Learning for Vehicle Trajectory Prediction in Highways
+#DeepTrack: Lightweight Deep Learning for Vehicle Trajectory Prediction in Highways
 
 This project implements a vehicle trajectory prediction model inspired by the DeepTrack model from the paper 
 "DeepTrack: Lightweight Deep Learning for Vehicle Trajectory Prediction in Highways".
