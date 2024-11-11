@@ -49,6 +49,7 @@ Google colab is a cloud platform for beginner machice learning developers which 
     -Upload the dataset to google drive of the gmail account which you are using the google colab on.
     -Mount google drive to jupyter nootebook where you have your code.
     -You can go to the folder in which the dataset is saved and access the dataset for imoplementataion.
+    
 --------------------------------------------------------------------------------
 5. Usage
 --------------------------------------------------------------------------------
