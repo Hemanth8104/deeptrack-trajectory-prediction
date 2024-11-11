@@ -42,7 +42,7 @@ trajectory prediction. This repository provides code for data loading, model def
 --------------------------------------------------------------------------------
 4. Cloud Implementation
 --------------------------------------------------------------------------------
-We used google colab for cloud implementation of our project. 
+-We used google colab for cloud implementation of our project. 
 Google colab is a cloud platform for beginner machice learning developers which offers free GPUs for training models.
 4.1 Using Datasets in Google Colab
     -Upload the dataset to google drive of the gmail account which you are using the google colab on.
