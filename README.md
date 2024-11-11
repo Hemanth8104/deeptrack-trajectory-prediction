@@ -9,12 +9,13 @@ Table of Contents
 1. Overview
 2. Features
 3. Installation
-4. Usage
-    4.1 Dataset Preparation
-    4.2 Training
-    4.3 Evaluation
-5. Results
-6. References
+4. Cloud Implementation
+5. Usage
+    5.1 Dataset Preparation
+    5.2 Training
+    5.3 Evaluation
+6. Results
+7. References
 
 --------------------------------------------------------------------------------
 1. Overview
