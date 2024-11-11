@@ -33,7 +33,7 @@ trajectory prediction. This repository provides code for data loading, model def
 3. Installation
 --------------------------------------------------------------------------------
 1. Clone the repository:
-   git clone https://github.com/your-username/deeptrack-trajectory-prediction.git
+   git clone https://github.com/Hemanth8104/deeptrack-trajectory-prediction.git
    cd deeptrack-trajectory-prediction
 
 2. Install the required dependencies:
