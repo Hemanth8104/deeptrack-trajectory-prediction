@@ -40,27 +40,36 @@ trajectory prediction. This repository provides code for data loading, model def
    pip install -r requirements.txt
 
 --------------------------------------------------------------------------------
-4. Usage
+4. Cloud Implementation
 --------------------------------------------------------------------------------
-4.1 Dataset Preparation
+We used google colab for cloud implementation of our project. 
+Google colab is a cloud platform for beginner machice learning developers which offers free GPUs for training models.
+4.1 Using Datasets in Google Colab
+    -Upload the dataset to google drive of the gmail account which you are using the google colab on.
+    -Mount google drive to jupyter nootebook where you have your code.
+    -You can go to the folder in which the dataset is saved and access the dataset for imoplementataion.
+--------------------------------------------------------------------------------
+5. Usage
+--------------------------------------------------------------------------------
+5.1 Dataset Preparation
     - To use the NGSIM dataset, download the data and specify the data_path in the code.
     - Alternatively, synthetic data can be generated automatically if no path is provided.
 
-4.2 Training
-    - To train the DeepTrack model, run the following command:
-      python deeptrack_training.py --data_path /path/to/ngsim.csv --epochs 20
+5.2 Training
+    - To train the DeepTrack model, run the block containing your traiing code in the jupyter notebook.
+      data_path /path/to/ngsim.csv (the path i saved inmy google drive) ,is trained for 200 epochs
 
-4.3 Evaluation
-    - To evaluate the model on a test set, use the following command:
-      python deeptrack_training.py --data_path /path/to/ngsim.csv --eval
+5.3 Evaluation
+    - To train the DeepTrack model, run the block containing your traiing code in the jupyter notebook.
+      data_path /path/to/ngsim.csv (the path i saved inmy google drive) ,is trained for 200 epochs
 
 --------------------------------------------------------------------------------
-5. Results
+6. Results
 --------------------------------------------------------------------------------
 While training, you can visualize training and test MSE loss values over epochs, output is predicted position after one time frame.
 
 --------------------------------------------------------------------------------
-6. References
+7. References
 --------------------------------------------------------------------------------
 Katariya, V., Baharani, M., Morris, N., Shoghli, O., & Tabkhi, H. (2022). 
 "DeepTrack: Lightweight Deep Learning for Vehicle Trajectory Prediction in Highways."
